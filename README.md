@@ -1,19 +1,19 @@
-## Hi there 👋
-Hi 👋, I'm a Computer Engineering Student!
+## Hi there 👋 I'm Rutuja Maher
 
-🚀 Aspiring Software Engineer | AI/ML Enthusiast | Python Developer
+🚀 Aspiring Software Engineer | AI/ML Enthusiast | Python Developer | Full Stack Developer
 
-🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 🎓 Computer Engineering Student at VIT Pune (DSY)
 💻 Diploma in Computer Engineering
+🌐 Building Full Stack Projects (React + Node + MongoDB)
 🤖 Interested in Artificial Intelligence & Machine Learning
 📊 Exploring Data Science and Python Development
 🚀 Passionate about building innovative real-world projects
 🌱 Always learning and improving my technical skills
 🎯 Goal: Become a Skilled Software Engineer
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
 💻 Programming Languages
 
@@ -21,6 +21,14 @@ Hi 👋, I'm a Computer Engineering Student!
 - C++
 - C
 - Java
+
+🌐 Web Development
+
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+- MongoDB
 
 🤖 AI & Data Science
 
@@ -34,21 +42,23 @@ Hi 👋, I'm a Computer Engineering Student!
 - VS Code
 - Jupyter Notebook
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=rutujamaher&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rutujamaher&show_icons=true&theme=tokyonight)
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=rutujamaher&layout=compact&theme=tokyonight)
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujamaher&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rutujamaher&theme=tokyonight)](https://git.io/streak-stats)
 
-🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-"Snake animation" (https://raw.githubusercontent.com/rutujamaher/rutujamaher/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rutujamaher/rutujamaher/output/github-contribution-grid-snake.svg)
 
-🔥 Featured Projects
+## 🔥 Featured Projects
 
 ♻️ E-Waste Management System
 A project focused on improving electronic waste management.
@@ -57,14 +67,14 @@ A project focused on improving electronic waste management.
 A project based on token management and systematic processing.
 
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 - 💻 GitHub: https://github.com/rutujamaher
 - 💼 LinkedIn: https://www.linkedin.com/in/rutuja-maher-82495a357/
 - 🟥 Instagram: https://www.instagram.com/rutu_maher106/
 - 📧 Email: rutumaher106@gmail.com
 
-🏆 Goals
+## 🏆 Goals
 
 🚀 Build innovative real-world projects
 🤖 Improve AI/ML and Data Science skills
@@ -72,6 +82,6 @@ A project based on token management and systematic processing.
 🌐 Contribute to open-source projects
 📚 Learn new technologies every day
 
-💡 My Philosophy
+## 💡 My Philosophy
 
 "Dream Big. Code Hard. Stay Consistent. Keep Growing." 🚀
