@@ -4,14 +4,13 @@
 
 ## 🧑‍💻 About Me
 
-🎓 Computer Engineering Student at VIT Pune (DSY)
-💻 Diploma in Computer Engineering
-🌐 Building Full Stack Projects (React + Node + MongoDB)
-🤖 Interested in Artificial Intelligence & Machine Learning
-📊 Exploring Data Science and Python Development
-🚀 Passionate about building innovative real-world projects
-🌱 Always learning and improving my technical skills
-🎯 Goal: Become a Skilled Software Engineer
+- 🎓 Computer Engineering Student at VIT Pune (DSY)
+- 💻 Diploma in Computer Engineering
+- 🌐 Building Full Stack Projects (React + Node + MongoDB)
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 📊 Exploring Data Science and Python Development
+- 🚀 Passionate about building innovative real-world projects
+- 🎯 Goal: Become a Skilled Software Engineer
 
 ## 🚀 Tech Stack
 
